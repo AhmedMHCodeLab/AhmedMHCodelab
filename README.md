@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ahmedmh03.work@gmail.com**
 
-- ⚡ Fun fact **I like taking picture & drinking coffee**
+- ⚡ Fun fact **I like taking pictures & drinking coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
