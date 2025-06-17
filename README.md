@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">A Student of The World</h3>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 📫 How to reach me **ahmedmh03.work@gmail.com**
 
