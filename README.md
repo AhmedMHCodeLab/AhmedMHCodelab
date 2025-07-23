@@ -2,16 +2,18 @@
 <h3 align="center">DevOps & QA Automation Engineer | AI Enthusiast | Software Tester</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedmhcodelab&label=Profile%20views&color=ff6600&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedmhcodelab&label=Profile%20views&color=ff6600&style=flat" alt="ahmedmhcodelab" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-Terraform-6f42c1?style=for-the-badge&logo=terraform" alt="Currently Learning: Terraform Badge" />
+  <img src="https://img.shields.io/badge/Currently_Learning-Terraform-ff6600?style=for-the-badge&logo=terraform" alt="Currently Learning: Terraform" />
 </p>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
+
+---
 
 - 🌱 Currently learning **Terraform**
 - 🛠️ Passionate about **DevOps**, **Cloud Automation**, and **AI-integrated QA**
@@ -20,9 +22,11 @@
 
 ---
 
-## 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
-<p align="left">
+---
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-25b300275/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
@@ -35,11 +39,14 @@
 </p>
 
 ---
-</br> </br>
-## 🛠️ Tech Stack
+</br>
 
-### 🔧 <u><b>DevOps & Cloud</b></u>
-<p>
+<h2 align="center">🛠️ Tech Stack</h2>
+
+---
+
+### 🔧 <u>DevOps & Cloud</u>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -50,16 +57,16 @@
 
 ---
 
-### 🧪 <u><b>QA & Automation</b></u>
-<p>
+### 🧪 <u>QA & Automation</u>
+<p align="center">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
 </p>
 
 ---
 
-### 💻 <u><b>Languages & Frameworks</b></u>
-<p>
+### 💻 <u>Languages & Frameworks</u>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -71,8 +78,8 @@
 
 ---
 
-### 🗄️ <u><b>Databases</b></u>
-<p>
+### 🗄️ <u>Databases</u>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -81,14 +88,16 @@
 
 ---
 
-### 🐧 <u><b>Operating Systems</b></u>
-<p>
+### 🐧 <u>Operating Systems</u>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
+
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmhcodelab&theme=orange" alt="ahmedmhcodelab streak stats" />
