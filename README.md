@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">DevOps & QA Automation Engineer | AI Enthusiast | Software Tester</h3>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmhcodelab&theme=dark" alt="ahmedmhcodelab" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedmhcodelab&label=Profile%20views&color=ff6600&style=flat" alt="ahmedmhcodelab" />
 </p>
@@ -80,8 +86,4 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmhcodelab&theme=orange" alt="ahmedmhcodelab streak stats" />
-</p>
