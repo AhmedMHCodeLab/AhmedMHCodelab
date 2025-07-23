@@ -64,12 +64,6 @@
   <a href="https://www.linkedin.com/in/ahmed-mohamed-25b300275/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/ahmedmhcodelab" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@ahmedmhcodelab" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium"/>
-  </a>
 </p>
 
 ---
