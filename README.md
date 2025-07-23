@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">DevOps & QA Automation Engineer | AI Enthusiast | Software Tester</h3>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedmhcodelab&label=Profile%20views&color=ff6600&style=flat" alt="ahmedmhcodelab" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-Terraform-ff6600?style=for-the-badge&logo=terraform" alt="Currently Learning: Terraform" />
+  <img src="https://img.shields.io/badge/Currently_Learning-Terraform-6f42c1?style=for-the-badge&logo=terraform" alt="Currently Learning: Terraform" />
 </p>
 
 ---
