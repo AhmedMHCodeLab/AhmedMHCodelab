@@ -16,22 +16,6 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-mohamed-25b300275/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/ahmedmhcodelab" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://medium.com/@ahmedmhcodelab" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium"/>
-  </a>
-</p>
-
----
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 **DevOps & Cloud**  
@@ -73,6 +57,22 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
 </p>
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-25b300275/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/ahmedmhcodelab" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/@ahmedmhcodelab" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" alt="Medium"/>
+  </a>
+</p>
+
+---
 
 ---
 
