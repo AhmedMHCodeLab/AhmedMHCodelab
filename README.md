@@ -5,18 +5,22 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedmhcodelab&label=Profile%20views&color=ff6600&style=flat" alt="ahmedmhcodelab" />
 </p>
 
+
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 Currently diving deep into **Terraform**
+- 🌱 Currently learning **Terraform**
 - 🛠️ Passionate about **DevOps**, **Cloud Automation**, and **AI-integrated QA**
-- 💬 Open for discussion on **CI/CD**, **containerization**, and **automated testing**
+- 💬 Ask me about **CI/CD**, **Containerization**, and **Automated Testing**
 - 📫 Reach me at: **ahmedmh03.work@gmail.com**
+- ![Learning Terraform](https://img.shields.io/badge/Currently_Learning-Terraform-ff6600?style=for-the-badge&logo=terraform)
+
+  
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-25b300275/" target="_blank">
@@ -32,9 +36,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### ☁️ DevOps & Cloud
+### 🔧 <u>DevOps & Cloud</u>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
@@ -44,13 +48,17 @@
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
 </p>
 
-#### 🧪 QA & Automation
+---
+
+### 🧪 <u>QA & Automation</u>
 <p>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/>
 </p>
 
-#### 💻 Languages & Frameworks
+---
+
+### 💻 <u>Languages & Frameworks</u>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -61,7 +69,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
 </p>
 
-#### 🗄️ Databases
+---
+
+### 🗄️ <u>Databases</u>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -69,18 +79,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle DB" width="40" height="40"/>
 </p>
 
-#### 🐧 Operating Systems
+---
+
+### 🐧 <u>Operating Systems</u>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmhcodelab&theme=orange" alt="ahmedmhcodelab" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmhcodelab&theme=orange" alt="ahmedmhcodelab streak stats" />
 </p>
-
----
-
