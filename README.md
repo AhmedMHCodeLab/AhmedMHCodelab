@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-Terraform-ff6600?style=for-the-badge&logo=terraform" alt="Currently Learning: Terraform Badge" />
+  <img src="https://img.shields.io/badge/Currently_Learning-Terraform-6f42c1?style=for-the-badge&logo=terraform" alt="Currently Learning: Terraform Badge" />
 </p>
 
 ---
