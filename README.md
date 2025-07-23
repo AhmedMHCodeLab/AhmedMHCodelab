@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedmhcodelab&label=Profile%20views&color=ff6600&style=flat" alt="ahmedmhcodelab" />
+  - ![Learning Terraform](https://img.shields.io/badge/Currently_Learning-Terraform-ff6600?style=for-the-badge&logo=terraform)
 </p>
 
 
@@ -14,7 +15,7 @@
 - 🛠️ Passionate about **DevOps**, **Cloud Automation**, and **AI-integrated QA**
 - 💬 Ask me about **CI/CD**, **Containerization**, and **Automated Testing**
 - 📫 Reach me at: **ahmedmh03.work@gmail.com**
-- ![Learning Terraform](https://img.shields.io/badge/Currently_Learning-Terraform-ff6600?style=for-the-badge&logo=terraform)
+
 
   
 
