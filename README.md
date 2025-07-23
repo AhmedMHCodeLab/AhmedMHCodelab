@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed</h1>
 <h3 align="center">DevOps & QA Automation Engineer | AI Enthusiast | Software Tester</h3>
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmhcodelab&theme=dark" alt="ahmedmhcodelab" />
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedmhcodelab&label=Profile%20views&color=ff6600&style=flat" alt="ahmedmhcodelab" />
