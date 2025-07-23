@@ -3,8 +3,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedmhcodelab&label=Profile%20views&color=ff6600&style=flat" alt="ahmedmhcodelab" />
+  ![Learning Terraform](https://img.shields.io/badge/Currently_Learning-Terraform-ff6600?style=for-the-badge&logo=terraform)
+
 </p>
-- - ![Learning Terraform](https://img.shields.io/badge/Currently_Learning-Terraform-ff6600?style=for-the-badge&logo=terraform)
 
 
 ---
