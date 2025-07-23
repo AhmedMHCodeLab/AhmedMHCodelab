@@ -6,25 +6,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-Terraform-ff6600?style=for-the-badge&logo=terraform" alt="Currently Learning: Terraform" />
+  <img src="https://img.shields.io/badge/Currently_Learning-Terraform-6f42c1?style=for-the-badge&logo=terraform" alt="Currently Learning: Terraform" />
 </p>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 
----
-
 - 🌱 Currently learning **Terraform**
 - 🛠️ Passionate about **DevOps**, **Cloud Automation**, and **AI-integrated QA**
-- 💬 Ask me about **CI/CD**, **Containerization**, and **Automated Testing**
 - 📫 Reach me at: **ahmedmh03.work@gmail.com**
 
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mohamed-25b300275/" target="_blank">
