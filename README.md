@@ -5,15 +5,6 @@
   <img src="https://img.shields.io/badge/Currently_Learning-Terraform-6f42c1?style=for-the-badge&logo=terraform" alt="Currently Learning: Terraform" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-</p>
-
 ---
 
 <h2 align="center">🚀 About Me</h2>
