@@ -13,6 +13,8 @@
 - 🛠️ Passionate about **DevOps**, **Cloud Automation**, and **AI-integrated QA**  
 - 💬 Ask me about **CI/CD**, **Containerization**, and **Automated Testing**  
 - 📫 Reach me at: **ahmedmh03.work@gmail.com**
+- 👀 What's next: ![CI/CD](https://img.shields.io/badge/-CI/CD-F07300?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ---
 
