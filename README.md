@@ -10,7 +10,6 @@
 <h2 align="center">🚀 About Me</h2>
 
 - 🌱 Currently learning **CI/CD**  
-- ✅ Completed learning **Terraform**  
 - 🛠️ Passionate about **DevOps**, **Cloud Automation**, and **AI-integrated QA**  
 - 💬 Ask me about **CI/CD**, **Containerization**, and **Automated Testing**  
 - 📫 Reach me at: **ahmedmh03.work@gmail.com**
