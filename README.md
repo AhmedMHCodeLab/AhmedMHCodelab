@@ -2,14 +2,14 @@
 <h3 align="center">DevOps & QA Automation Engineer | AI Enthusiast | Software Tester</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions" alt="Currently Learning: CI/CD" />
+  <img src="https://img.shields.io/badge/Currently_Learning-Kubernetes-800080?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Currently Learning: Kubernetes" />
 </p>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 
-- 🌱 Currently learning **CI/CD**  
+- 🌱 Currently learning **Kubernetes**  
 - 🛠️ Passionate about **DevOps**, **Cloud Automation**, and **AI-integrated QA**  
 - 💬 Ask me about **CI/CD**, **Containerization**, and **Automated Testing**  
 - 📫 Reach me at: **ahmedmh03.work@gmail.com**
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
   <img src="https://img.shields.io/badge/-Terraform-6f42c1?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/-CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
 **QA & Automation**  
